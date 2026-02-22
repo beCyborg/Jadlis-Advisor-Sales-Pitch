@@ -1,0 +1,19 @@
+{
+  "name": "jadlis-advisor-sales-pitch",
+  "description": "Sales pitch advisor — Sales Pitch (April Dunford, 2023): 8-step storyboard в 2 фазах, positioning-to-pitch mapping, 12 anti-patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "beCyborg"
+  },
+  "repository": "https://github.com/beCyborg/Jadlis-Advisor-Sales-Pitch",
+  "keywords": [
+    "sales-pitch",
+    "sales-storyboard",
+    "sales-narrative",
+    "demo-structure",
+    "value-demo",
+    "pitch-deck",
+    "sales-qualification",
+    "objection-handling"
+  ]
+}
